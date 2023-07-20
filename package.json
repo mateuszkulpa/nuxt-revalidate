@@ -1,6 +1,6 @@
 {
   "name": "nuxt-revalidate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nuxt revalidate module",
   "repository": "mateuszkulpa/nuxt-revalidate",
   "license": "MIT",
